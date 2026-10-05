@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+azure-identity
+azure-search-documents
+pytest
+httpx
